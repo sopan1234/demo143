@@ -21,6 +21,7 @@ public class StartEx {
 			System.out.println(sname);
 		}
 		
+		System.out.println(2);
 		
 	}
 
